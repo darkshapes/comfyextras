@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "comfynodes"
+dynamic = ["version"]
+dependencies = [
+    "sdbx"
+]
