@@ -1,3 +1,3 @@
-# comfynodes
+# comfyextras
 
-A module for [Shadowbox](https://github.com/darkshapes/singularity) containing the core [ComfyUI](https://github.com/comfyanonymous/ComfyUI) node suite.
+A module for [Shadowbox](https://github.com/darkshapes/singularity) containing the non-base [ComfyUI](https://github.com/comfyanonymous/ComfyUI) node suite.
